@@ -1,12 +1,12 @@
-baseurl: /starter
+baseurl: /tampabay
 permalink: pretty
 future: true
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: tampabay
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeTampaBay
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
